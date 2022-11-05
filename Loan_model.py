@@ -14,7 +14,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 
 
-print("1")
+#print("1")
 #import warnings 
 #if not sys.warnoptions:
  #   warnings.simplefilter("ignore")
